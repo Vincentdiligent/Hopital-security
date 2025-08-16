@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sécurité Hôpital</string>
+    <string name="building_label">Bâtiment</string>
+    <string name="floor_label">Étage</string>
+    <string name="alert_button">Bouton d'Agression</string>
+    <string name="call_button">Appeler le 10</string>
+    <string name="enter_message_prompt">Veuillez entrer un message</string>
+    <string name="alert_sent">Alerte envoyée avec succès</string>
+    <string name="alert_send_error">Erreur lors de l'envoi</string>
+    <string name="location_error">Impossible de récupérer la localisation</string>
+    <string name="send_button">Envoyer l'alerte</string>
+</resources>
